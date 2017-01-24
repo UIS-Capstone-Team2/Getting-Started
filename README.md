@@ -15,22 +15,33 @@ Don't use notepadd. I will give you 3 options and pick your posion. This is real
 ##  Set 4: Install Ember.js
 [Ember.js](https://guides.emberjs.com/v2.0.0/getting-started/) This is the framework we will be using. It basically gives you a bunch of prebuilt functions and templates. We already have all the dependancies for it so now just install it by opening a powershell prompt and typing
 
-```npm install -g ember-cli```
-
-```npm install -g phantomjs2```
+```
+npm install -g ember-cli
+npm install -g phantomjs2
+```
 
 and we are done, well with installing stuff
 
 ## Baby's First App
 So I am not sure how familar you all are with comand line but it will become your best friend. In that same powershell prompt type
-```cd```
+```
+cd
+```
 That stands for change directory and without any parms will go to your home directory. Now type 
-```ls```
+```
+ls
+```
 This will list all the files and folders in the current directory. Now we are going to create a new one called projects
-```mkdir projects```
+```
+mkdir projects
+```
 That is make a new directory called projects. Now cd into that folder
-```cd projects```
+```
+cd projects
+```
 Now we will create our first Ember app
-```ember new my-new-app```
+```
+ember new my-new-app
+```
 That will create a new directory called my-app and start making all the files ember needs. It should look something like ![this](https://www.dropbox.com/s/s1azvi2wkqimqc1/Screenshot%202017-01-23%2021.10.10.png?dl=0)
 
