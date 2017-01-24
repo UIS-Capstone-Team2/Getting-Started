@@ -52,4 +52,4 @@ cd my-new-app
 ember server
 ```
 and go to [localhost:4200](http://localhost:4200)
-
+If you see a hampster, well $$$$$$ we made it! Otherwise read through the offical install guides and their troubleshooting pages. At some point I will probally make a linux dev vm for people to run that have trouble getting their enviroment inorder.
