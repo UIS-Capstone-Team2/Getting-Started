@@ -43,5 +43,6 @@ Now we will create our first Ember app
 ```
 ember new my-new-app
 ```
-That will create a new directory called my-app and start making all the files ember needs. It should look something like ![this](https://www.dropbox.com/s/s1azvi2wkqimqc1/Screenshot%202017-01-23%2021.10.10.png?dl=0)
+That will create a new directory called my-app and start making all the files ember needs. It should look something like
+![this](https://www.dropbox.com/s/s1azvi2wkqimqc1/Screenshot%202017-01-23%2021.10.10.png?dl=0)
 
