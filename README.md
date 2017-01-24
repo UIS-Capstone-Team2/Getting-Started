@@ -46,3 +46,10 @@ ember new my-new-app
 That will create a new directory called my-app and start making all the files ember needs. It should look something like
 [this]: https://www.dropbox.com/s/s1azvi2wkqimqc1/Screenshot%202017-01-23%2021.10.10.png?dl=0 "new ember app"
 
+now cd into it and start the server
+```
+cd my-new-app
+ember server
+```
+and go to [localhost:4200](http://localhost:4200)
+
